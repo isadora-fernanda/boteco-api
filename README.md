@@ -186,4 +186,4 @@ O que ainda melhoraria:
 
 ---
 
-Exercício feito em turma no Entra21. Esta versão é mantida por **Isadora Fernanda Zappe Schmidt** · [LinkedIn](https://www.linkedin.com/in/isadora-fernanda)
+Desenvolvido por **Isadora Fernanda Zappe Schmidt** · [LinkedIn](https://www.linkedin.com/in/isadora-fernanda)
